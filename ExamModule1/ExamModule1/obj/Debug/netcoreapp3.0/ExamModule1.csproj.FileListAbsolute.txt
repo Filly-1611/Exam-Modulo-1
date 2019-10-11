@@ -1,0 +1,11 @@
+C:\Users\filomena.iannone\Desktop\Exam - Module - 1\ExamModule1\ExamModule1\obj\Debug\netcoreapp3.0\ExamModule1.csprojAssemblyReference.cache
+C:\Users\filomena.iannone\Desktop\Exam - Module - 1\ExamModule1\ExamModule1\obj\Debug\netcoreapp3.0\ExamModule1.AssemblyInfoInputs.cache
+C:\Users\filomena.iannone\Desktop\Exam - Module - 1\ExamModule1\ExamModule1\obj\Debug\netcoreapp3.0\ExamModule1.AssemblyInfo.cs
+C:\Users\filomena.iannone\Desktop\Exam - Module - 1\ExamModule1\ExamModule1\bin\Debug\netcoreapp3.0\ExamModule1.exe
+C:\Users\filomena.iannone\Desktop\Exam - Module - 1\ExamModule1\ExamModule1\bin\Debug\netcoreapp3.0\ExamModule1.deps.json
+C:\Users\filomena.iannone\Desktop\Exam - Module - 1\ExamModule1\ExamModule1\bin\Debug\netcoreapp3.0\ExamModule1.runtimeconfig.json
+C:\Users\filomena.iannone\Desktop\Exam - Module - 1\ExamModule1\ExamModule1\bin\Debug\netcoreapp3.0\ExamModule1.runtimeconfig.dev.json
+C:\Users\filomena.iannone\Desktop\Exam - Module - 1\ExamModule1\ExamModule1\bin\Debug\netcoreapp3.0\ExamModule1.dll
+C:\Users\filomena.iannone\Desktop\Exam - Module - 1\ExamModule1\ExamModule1\bin\Debug\netcoreapp3.0\ExamModule1.pdb
+C:\Users\filomena.iannone\Desktop\Exam - Module - 1\ExamModule1\ExamModule1\obj\Debug\netcoreapp3.0\ExamModule1.dll
+C:\Users\filomena.iannone\Desktop\Exam - Module - 1\ExamModule1\ExamModule1\obj\Debug\netcoreapp3.0\ExamModule1.pdb
